@@ -1,0 +1,13 @@
+# SwiftPM build and package state
+.build/
+.swiftpm/
+
+# Xcode user data
+DerivedData/
+xcuserdata/
+*.xcuserstate
+
+# Temporary local validation output
+validation/
+validate-*/
+*.log
